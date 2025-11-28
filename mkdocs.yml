@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Documentação site AMAÊS Itabira-MG
+site_url: https://anaquerzia.github.io/Documentacao_site_amaes/
+repo_url: https://github.com/Anaquerzia/Documentacao_site_amaes/
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
+  - Páginas:
+      - Home: Páginas/home.md
+      - Sobre nós: Páginas/sobre_nos.md
+      - Institucional: Páginas/institucional.md
+      - Notícias: Páginas/noticias.md
+      - Doações: Páginas/doacoes.md
+      - Associe-se: Páginas/associe.md
+      - Relatórios: Páginas/relatorios.md
+      - Compras & Contratos: Páginas/compras_contratos.md
+      - Parcerias e Emendas: Páginas/parcerias_emendas.md
+  - Acesso ao Painel:
+      - Acesso: Acesso ao painel/acesso.md
+  - Manutenção:
+      - Backup & Segurança: Manutenção/backup_seguranca.md
+      - Conteúdo & Publicação: Manutenção/conteudo_publicacao.md
