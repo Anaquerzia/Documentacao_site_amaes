@@ -13,14 +13,9 @@ Nesta página,o usuário poderá atualizar textos, imagens, botões e links, man
 1. No painel do WordPress, acesse o menu lateral esquerdo.
 2. Clique em ** Páginas\Todas as Paginas ** para ver a lista de todas as páginas do site.
 
-![Login](img\wp-todaspaginas.png){ style="border: 1px solid #ccc; border-radius: 8px;" }
-
- imagem:img\wp-todaspaginas.png
-
 3. Na lista de páginas, procure pela página chamada **Início**.
 4. Passe o mouse sobre o nome da página e clique em **Editar** para abrir o conteúdo.
 
-![Lista de páginas do WordPress com a página inicial destacada e a opção "Editar"]
 
 ---
 
